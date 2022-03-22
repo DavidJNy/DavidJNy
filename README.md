@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidJNy
-- 👀 I’m interested in ... becoming a data scientist. or full stack developer. or anything challenging.
-- 🌱 I’m currently learning ... python and hopefully Machine Learning Algos
+- 👀 I’m interested in ... becoming a full stack developer.
+- 🌱 I’m currently learning ... MERN stack and a little bit of python and hopefully Machine Learning Algos
 - 💞️ I’m looking to collaborate on ... anything really.
 - 📫 How to reach me ... Email or DM me here. Always connected.
 
